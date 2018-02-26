@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GMA1</string>
+    <string name="msg_error">Please turn on the Internet.</string>
+    <string name="lbl_ok">OK</string>
+</resources>
